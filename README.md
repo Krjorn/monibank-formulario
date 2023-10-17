@@ -14,3 +14,5 @@ Projeto desenvolvido como parte do curso "JavaScript: validando formulários" da
 ## Detalhes do projeto
 
 O projeto visa utilizar atributos HTML e *ValidityState* para validar os campos de um formulário, apresentando mensagens personalizadas com base no tipo de erro e campo em que esses podem ocorrer. Além disso também foi usado o método *getUserMedia()* para capturar uma foto do usuário, por fim salvando todas as informações com *localStorage*.
+
+Para verificar o formulário clique em *Abrir conta*.
